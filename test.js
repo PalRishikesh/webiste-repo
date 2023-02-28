@@ -1,1 +1,3 @@
-hi added
+<script>
+    hi from js file
+</script>
